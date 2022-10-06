@@ -7,7 +7,7 @@ const NavBar = () =>{
       <div class="container-fluid">
     <a class="navbar-brand" href="#">
       <img src={pngwing} height="40" />
-      PREDICCIÓN METEOROLÓGICA
+      PREDICCIÓN METEOROLÓGICA . 
     </a>
   </div>
 </nav>
